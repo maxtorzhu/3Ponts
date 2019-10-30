@@ -1,0 +1,7 @@
+d:\Projects\3Ponts\3Ponts\bin\Debug\3Ponts.exe
+d:\Projects\3Ponts\3Ponts\bin\Debug\3Ponts.pdb
+d:\Projects\3Ponts\3Ponts\obj\Debug\3Ponts.csprojResolveAssemblyReference.cache
+d:\Projects\3Ponts\3Ponts\obj\Debug\_3Ponts.Properties.Resources.resources
+d:\Projects\3Ponts\3Ponts\obj\Debug\3Ponts.csproj.GenerateResource.Cache
+d:\Projects\3Ponts\3Ponts\obj\Debug\3Ponts.exe
+d:\Projects\3Ponts\3Ponts\obj\Debug\3Ponts.pdb
